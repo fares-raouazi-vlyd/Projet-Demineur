@@ -1,0 +1,3 @@
+﻿  grid.cpp
+C:\Users\fraouazi\Documents\GitHub\Projet-Demineur\Projet Démineur\Projet Démineur\grid.cpp(68): warning C4715: 'ChangeCell' : les chemins de contrôle ne retournent pas tous une valeur
+  Projet Démineur.vcxproj -> C:\Users\fraouazi\Documents\GitHub\Projet-Demineur\Projet Démineur\x64\Debug\Projet Démineur.exe
