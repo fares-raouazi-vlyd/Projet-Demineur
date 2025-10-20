@@ -66,3 +66,8 @@ int ChangeCell(GRID* g, int row, int coll, int action)
 	
 
 }
+
+void GenerateMap(GRID* g, int row, int coll)
+{
+	g->totalNumberOfMine = (g->rows * g->colls) * 0.15;
+}

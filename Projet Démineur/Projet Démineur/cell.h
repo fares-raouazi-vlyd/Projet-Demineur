@@ -14,4 +14,5 @@ struct CELL
 };
 
 void InitCells(CELL* c, int row, int coll);
+
 void MarkingCell(CELL* c);
